@@ -1,0 +1,7 @@
+{
+  "env": {
+    "USER": "remy",
+    "PORT": "8000",
+    "ETC": "etc"
+  }
+}
